@@ -3980,7 +3980,7 @@ STR_DTLS    :Denna havsvik är grunden för denna berg- och dalbaneutmaning
 <Good Knight Park>
 STR_SCNR    :Good Knight Park
 STR_PARK    :Good Knight Park
-STR_DTLS    :Ett slott med ett par karuseller ska utvecklas till en större nöjespark
+STR_DTLS    :Ett slott med ett par berg- och dalbanor ska utvecklas till en större nöjespark
 
 <Wacky Warren>
 STR_SCNR    :Wacky Warren
